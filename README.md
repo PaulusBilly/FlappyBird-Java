@@ -1,2 +1,2 @@
 # FlappyBird-Java
-A FlappyBird game clone i made with java.
+A clone of the FlappyBird game that i made with java.
